@@ -1,8 +1,0 @@
-x = 10  # Global variable
-
-def my_function():
-    x = 5  # ⚠️ This shadows the global variable 'x'
-    print("Inside function, x =", x)
-
-my_function()
-print("Outside function, x =", x)
