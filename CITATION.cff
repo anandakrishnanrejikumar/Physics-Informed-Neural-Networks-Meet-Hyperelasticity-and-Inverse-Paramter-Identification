@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it."
+title: "Physics-Informed Neural Networks for Hyperelasticity and Inverse Parameter Identification"
+authors:
+  - family-names: Rejikumar
+    given-names: Anandakrishnan
+year: 2026
+license: MIT
+repository-code: "https://github.com/anandakrishnanrejikumar/Physics-Informed-Neural-Networks-Meet-Hyperelasticity-and-Inverse-Paramter-Identification"
+url: "https://github.com/anandakrishnanrejikumar/Physics-Informed-Neural-Networks-Meet-Hyperelasticity-and-Inverse-Paramter-Identification"

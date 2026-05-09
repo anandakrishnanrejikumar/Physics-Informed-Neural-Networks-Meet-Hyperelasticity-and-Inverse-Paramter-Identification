@@ -12,8 +12,9 @@ Energy:
   Method: Neo Hooke #Neo Hooke,Interpolationbasedenergy
 
 Directory:
-#  File_directory: /calculate/Rejikumar/Thesis/mthesis
-  File_directory: F:\DOCS\Masters FAU\SEM 5\Thesis\mthesis-pinn-ananda
+#  Point this to the repository root or another workspace root that contains
+#  the `Input/` and `Output/` folders.
+  File_directory: ..
 
 Output File Names:
   LossvsEpoch: EpochVsLosstestTanhBulkandShear50000_10000_10000_1Inverse.txt
