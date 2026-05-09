@@ -1,0 +1,30 @@
+FEM Parameters:
+  Total Elements: 512
+
+Material Properties:
+  Bulk Modulus: 2.1666666666666665
+  Shear Modulus: 1
+
+PINN:
+  Type: Inverse #Forward/Inverse
+
+Energy:
+  Method: Neo Hooke #Neo Hooke,Interpolationbasedenergy
+
+Directory:
+#  File_directory: /calculate/Rejikumar/Thesis/mthesis
+  File_directory: F:\DOCS\Masters FAU\SEM 5\Thesis\mthesis-pinn-ananda
+
+Output File Names:
+  LossvsEpoch: EpochVsLosstestTanhBulkandShear50000_10000_10000_1Inverse.txt
+  ResidualvsEpoch: InverseResidual.txt
+  PinnModel : EpochVsLosstestTanhBulkandShear50000_10000_10000_1Inverse.pth
+
+General:
+  Number Load Steps: 10
+
+Hyperparameters:
+  Gamma: 90000
+  Delta: 70000
+  Alpha: 500
+  Beta: 1
