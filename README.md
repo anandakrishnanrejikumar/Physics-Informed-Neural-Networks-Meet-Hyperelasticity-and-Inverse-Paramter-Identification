@@ -1,6 +1,6 @@
 # Physics-Informed Neural Networks for Hyperelasticity and Inverse Parameter Identification
 
-This repository contains a Physics-Informed Neural Network (PINN) workflow for identifying hyperelastic material parameters from full-field displacement data. The code couples a neural network displacement surrogate with a finite-element-based residual evaluation so that material parameters can be learned from observed deformation fields.
+This repository contains a Physics-Informed Neural Network (PINN) workflow for identifying hyperelastic material parameters from full-field displacement data. The code couples a neural network displacement surrogate with a finite-element-based residual evaluation so that material parameters can be learned from observed displacement and force fields.
 
 ## What this project does
 
